@@ -1,11 +1,10 @@
-.form-fiels {
+.form-fields {
   display: block;
-}
-
-.border-solid {
-  margin-bottom: 20px;
-}
-
-.input {
   margin-bottom: 10px;
+}
+
+.fieldset {
+  display: block;
+  margin-bottom: 20px;
+  padding-bottom: 0;
 }
